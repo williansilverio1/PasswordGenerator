@@ -9,8 +9,8 @@ Usage
 3. The program will display a randomly generated password.
 
 Notes
-- You can change the default password length by modifying `defaultPasswordLength`.
-- For more secure passwords, consider using `java.security.SecureRandom`.
+- You can change the default password length by modifying (defaultPasswordLength).
+- For more secure passwords, consider using (java.security.SecureRandom).
 
 Contributing
 
